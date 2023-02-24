@@ -1,0 +1,1 @@
+# dbt cloud project to learn dbt fundamental
